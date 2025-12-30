@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd5dbe2a450904336606e855596a040544752e8243c111a8c4513424b7cc42ce
-size 290
+For any suggestions, enquiries, or contact, mail me at: [shodansstudio@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=shodansstudio@gmail.com) <br>
+Gaming youtube[@shodangp](https://www.youtube.com/@shodangp) & Dev youtube[@shodan_dev](https://www.youtube.com/@shodan_dev) <br>
