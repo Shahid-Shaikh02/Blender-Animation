@@ -1,5 +1,0 @@
-DEF-Body
-DEF-Wheel.Ft.L
-DEF-Wheel.Ft.R
-DEF-Wheel.Bk.L
-DEF-Wheel.Bk.R
